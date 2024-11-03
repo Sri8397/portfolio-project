@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+}
+#maindiv{
+    height: 8vh;
+    width: 100vw;
+    overflow: hidden;
+    margin-bottom: 3vh;
+    background-color: #F8F9FA;
+}
+.bar{
+    display: inline;
+}
+#main{
+    position: absolute;
+    top: 3vh;
+    left: 6vw;
+    color: rgb(0, 0, 0);
+}
+.bar{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    cursor: pointer;
+}
+#left{
+    margin-right: 1.5vw;
+}
+.a{
+    margin-right: 1.5vw;
+}
+.b{
+    margin-right: 1.5vw;
+}
+.c{
+    margin-right: 1.5vw;
+}
+.d{
+   margin-right: 1.5vw; 
+}
+#main1{
+    height: 50vh;
+    width: 100vw;
+    background-color: #F8F9FA;
+    position: relative;
+    color: rgb(0, 0, 0);
+}
+.post{
+    position: absolute;
+    top: 30vh;
+    left: 37vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.pre{
+    position: absolute;
+    top: 20vh;
+    left: 30vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+#main2{
+    height: 23vh;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+#ab1{
+    position: absolute;
+    top: 6vh;
+    left: 42vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+#p1{
+    position: absolute;
+    top: 15vh;
+    left: 22vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    
+}
+#main3{
+    height: 30vh;
+    width: 100vw;
+    overflow: hidden;
+    margin-top: 1vh;
+    background-color: #F8F9FA;
+    position: relative;
+    margin-bottom: 3vh;
+}
+#head1{
+    position: absolute;
+    top: 10vh;
+    left:47vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    
+}
+#con{
+    position: absolute;
+    top: 16vh;
+    left: 39vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+#main4{
+    height: 30vh;
+    width: 100vw;
+    overflow: hidden;
+    margin-top: 1vh;
+    background-color: #ffffff;
+    position: relative;
+}
+#x{
+    position: absolute;
+    top: 6vh;
+    left: 45vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+.A{
+    margin-left:3px;
+    margin-right: 5vw;
+}
+.B{
+    margin-right: 5vw;
+}
+.C{
+    margin-right: 5vw;
+}
